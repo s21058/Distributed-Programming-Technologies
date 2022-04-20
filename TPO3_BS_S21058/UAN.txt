@@ -1,0 +1,8 @@
+house,дім
+haus,дім
+mother,мама
+mutter,мама
+businessman,бізнесмен
+geschäftsmann,бізнесмен
+toy,іграшка
+spielzeug,іграшка

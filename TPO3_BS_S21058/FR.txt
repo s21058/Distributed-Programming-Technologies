@@ -1,0 +1,8 @@
+house,maison
+haus,maison
+mother,mère
+mutter,mère
+businessman,homme d'affaire
+geschäftsmann,homme d'affaire
+toy,jouet
+spielzeug,jouet
